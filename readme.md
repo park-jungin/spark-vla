@@ -139,8 +139,3 @@ Current overlay logic:
 - not-selected tokens: white mask overlay (`router_overlay_alpha` controls strength).
 
 So white regions indicate tokens pruned by the router.
-
-## 9) Directory Notes
-
-- Third-party LIBERO source is vendored under `third_party/LIBERO`.
-- Large artifacts (logs/checkpoints/datasets/wandb runs) are intentionally excluded from this package.
